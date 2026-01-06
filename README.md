@@ -1,8 +1,8 @@
-# React.js & Tailwind CSS Project - Week 3 Assignment
+# React.js & Tailwind CSS Project
 
 ## 📋 Project Overview
 
-This is a complete React application built as part of a Week 3 assignment to master front-end development concepts. The project demonstrates practical implementation of React.js, JSX, and Tailwind CSS through a fully functional task management application with API integration.
+This project is a complete React application that showcases core front-end development concepts. It demonstrates the practical use of React.js, JSX, and Tailwind CSS through a fully functional task management application with API integration.
 
 ## 🎯 What This Project Does
 
